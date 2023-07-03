@@ -1,6 +1,6 @@
-import rawYears from './years';
+import * as rawYears from './years';
 import R from 'ramda';
-import moment from 'moment';
+import * as moment from 'moment';
 
 /* eslint-disable no-console */
 
